@@ -3,9 +3,12 @@ use strict;
 use warnings;
 
 print "Content-type: text/html\n\n";
-print "<html><head><title>Validate Local Address</title>";
+print "<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN'\n";
+print "'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>\n";
+print "<html xmlns='http://www.w3.org/1999/xhtml' lang='en' xml:lang='en'\n>";
+print "<head><title>Validate Local Address</title>";
 print "<meta http-equiv='content-type' content='text/html; charset=UTF-8' />";
-print "</head>\n</body>";
+print "</head>\n<body>";
 
 print "<h1>Validate Local Address</h1><hr />";
 
