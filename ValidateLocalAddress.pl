@@ -38,8 +38,8 @@ print "<h1>Validate Local Address</h1><hr />";
 	} 
 	
 	# Close the paragraph tag.
-	print "</p>";
+	print "</p>\n";
 
-print "</body></html>";
+print "</body>\n</html>";
 
 exit;
