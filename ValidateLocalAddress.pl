@@ -3,7 +3,7 @@ use strict;
 use warnings;
 
 print "Content-type: text/html\n\n";
-print "<html><head><title>Validate Credit Card</title>";
+print "<html><head><title>Validate Local Address</title>";
 print "<meta http-equiv='content-type' content='text/html; charset=UTF-8' />";
 print "</head>\n</body>";
 
